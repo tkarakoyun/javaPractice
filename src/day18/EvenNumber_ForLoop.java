@@ -8,7 +8,7 @@ public class EvenNumber_ForLoop {
 
         System.out.println("For even numbers");
         for (int i = 0 ; i <100 ; i+=2){
-            System.out.print(i+ " ");
+            System.out.print(i+ " , ");
         }
         System.out.println();
 
